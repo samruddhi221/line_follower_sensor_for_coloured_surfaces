@@ -9,6 +9,7 @@ specifications and ambient light.
 
 
 If you find the repository useful, you can site our paper as:
+
 @INPROCEEDINGS{7853535,
 author={S. {Patil} and A. {Wagh} and M. {Sawant} and S. {Panda} and A. {Bhopale}},
 booktitle={2016 IEEE 1st International Conference on Power Electronics, Intelligent Control and Energy Systems (ICPEICES)},
@@ -17,7 +18,6 @@ year={2016},
 volume={},
 number={},
 pages={1-6},
-keywords={calibration;filters;light emitting diodes;microcontrollers;navigation;phototransistors;robots;sensors;three-term control;advanced auto calibrating line following sensor;coloured surfaces;white line;7-channel line sensor;line following robot;software based automatie sensor calibration;individual threshold per sensor channel;robotics applications;light emitting diodes;phototransistor;onboard microcontroller Arduino Mega 2560;navigation control system;serial communication;moving average filters;error feedback;proportional-integral derivative algorithm;performance metrics;Robot sensing systems;Process control;Intelligent sensors;Navigation;Light emitting diodes;Advanced Line Sensor;Moving Average Filter;PID;Coloured Surfaces;Phototransistor;Auto Calibration},
 doi={10.1109/ICPEICES.2016.7853535},
 ISSN={null},
 month={July},}
