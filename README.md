@@ -10,6 +10,7 @@ specifications and ambient light.
 
 If you find the repository useful, you can site our paper as:
 
+```
 @INPROCEEDINGS{7853535,
 author={S. {Patil} and A. {Wagh} and M. {Sawant} and S. {Panda} and A. {Bhopale}},
 booktitle={2016 IEEE 1st International Conference on Power Electronics, Intelligent Control and Energy Systems (ICPEICES)},
@@ -21,3 +22,4 @@ pages={1-6},
 doi={10.1109/ICPEICES.2016.7853535},
 ISSN={null},
 month={July},}
+```
